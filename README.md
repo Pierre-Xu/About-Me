@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xscapess" alt="xscapess" /></a> </p>
 
-- 🔭 我目前工作的地方： **shenlanxueyuan**
+- 🔭 我目前工作的地方： **深蓝学院**
 
 - 🌱 我目前正在学习：**SwiftUI 100**
 
-- 👯我正在寻求在**去健身房**的朋友
+- 👯我正在寻求在一起**健身**的朋友
 
 - 🤝 我在寻求**产品开发**方面的帮助
 
-- 📫 如何联系我**1176981634@qq.com**
+- 📫 如何联系我：**1176981634@qq.com**
 
 <p align="left">
 </p>
