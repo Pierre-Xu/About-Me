@@ -1,4 +1,4 @@
-<h1 align="center">嗨👋，我是 Pierre Xu</h1>
+<h1 align="center">嗨👋，我是 Pierre_Xu </h1>
 <h3 align="center">编导专业出身，目前自学 ios 开发中</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xscapess&label=Profile%20views&color=0e75b6&style=flat" alt="xscapess" /> </p>
